@@ -49,3 +49,10 @@ input{
     margin: 0 1em;
     color: red;
 }
+.valid {
+  color: purple;
+}
+
+.invalid {
+  color: red;
+}
