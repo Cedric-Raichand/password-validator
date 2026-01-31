@@ -23,5 +23,4 @@ It provides real-time feedback on password strength and requirements, including 
 
 - **HTML5** – Structure  
 - **CSS3** – Styling & layout  
-- **JavaScript (Vanilla JS)** – Logic & interactivity  
-
+- **JavaScript (Vanilla JS)** – Logic & interactivity 
