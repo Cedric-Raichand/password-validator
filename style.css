@@ -17,7 +17,7 @@ body{
     background: #fff;
     padding: 1.5em;
     border-radius: 20px;
-    box-shadow: 0 5px 20px 10px rgba(0,0,0,0.4);
+    box-shadow: 0 5px 20px 10px rgba(0,0,0,0.5);
 }
 
 h2{
@@ -31,7 +31,7 @@ input{
     font-size: 1em;
     height: 1em;
     width: 80%;
-    border: 1px solid rgba(0,0,0,0.4);
+    border: 1px solid rgba(0,0,0,0.5);
     outline: none;
     border-radius: 10px;
 }
@@ -42,7 +42,7 @@ input{
 }
 
 .length{
-    margin: 0.7em 1em;
+    margin: 0.8em 1em;
 }
 
 #check1, #check2, #check3, #check4{
